@@ -1,0 +1,1 @@
+# WasteGuide AI routes package
