@@ -2,6 +2,9 @@
 
 Sustainable Waste Management Assistant Using Generative AI. A full-stack civic application designed for urban residents of Hyderabad to identify waste items, obtain disposal guidance, locate nearby collection centers, and track recycling metrics.
 
+## Live Link
+**https://frontend-ten-kappa-73xeecpw89.vercel.app/
+
 ## Key Features
 
 1. **AI Waste Classification**: Scan waste items to classify them into standard categories. Uses a local static database fallback by default, and `llama-3.3-70b-versatile` via Groq API when configured.
